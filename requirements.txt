@@ -1,12 +1,4 @@
-fastapi==0.111.0
-uvicorn==0.29.0
-httpx==0.27.0
-bcrypt==4.1.3
-pyjwt==2.8.0
-python-dotenv==1.0.1
-pydantic[email]==2.7.1
 streamlit==1.28.1
 ultralytics==8.0.234
 pillow==10.1.0
 numpy==1.24.3
-aiofiles==23.2.1
